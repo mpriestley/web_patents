@@ -1,4 +1,4 @@
-This repository contains Python scripts for gathering and cleaning the dataset of Web-related patents.
+This repository contains Python scripts for gathering and cleaning a longitudinal dataset of Web-related patents.
 Corresponding author:
 Maria Priestley (mp5g15@soton.ac.uk) – Web and Internet Science Group, University of Southampton
 
